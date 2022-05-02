@@ -1,3 +1,0 @@
-#testPython.py
-
-print ("welcome")
